@@ -1,6 +1,6 @@
 {
-  "data" :[
-    {
+  "data":{
+  {
         "id": 1,
         "title": "Apple iPad Air with A14 Bionic chip (10.9-inch/27.69 cm, Wi-Fi + Cellular, 64GB) - Space Grey (4th Generation)",
         "price": "65,590",
@@ -67,9 +67,8 @@
         "category": "Electronics",
         "image": "https://m.media-amazon.com/images/I/61l6dlG0nWL._SL1500_.jpg"
     },
-  ],
+   },
    "profile": {
     "name": "typicode"
   }
 }
-  
